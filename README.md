@@ -1,2 +1,2 @@
 # cs-toys
-c sharps toys for learning and exploration
+c sharp toys for learning and exploration
